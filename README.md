@@ -7,7 +7,7 @@ Welcome to my Github. For those that don't know me, my name is Debbie O'Brien an
 List of ways you can follow me:
 
 - 📝 [Blog](https://debbie.codes/blog)
-- 📦 [Resoucres](https://debbie.codes/resources)
+- 📦 [Resources](https://debbie.codes/resources)
 - 📺 [YouTube Channel](https://www.youtube.com/channel/UCrNvYFsT1L3WczE8AizDQ6g/)
 - 📺 [Twitch Channel](https://www.twitch.tv/debs_obrien)
 - 🎙 [Speaker Profile](https://noti.st/debbie)
