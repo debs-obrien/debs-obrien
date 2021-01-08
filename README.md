@@ -16,3 +16,7 @@ List of ways you can follow me:
 - 🐦[Twitter](https://twitter.com/debs_obrien)
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/debbie-o-brien-1a199975/)
 
+## Metrics
+Thanks to [metrics.lecoq.io](https://metrics.lecoq.io/)
+
+![Metrics](https://metrics.lecoq.io/debs-obrien?template=classic&followup=1&config.timezone=Europe%2FMadrid)
