@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github. For those that don't know me, my name is Debbie O'Brien and I am a Senior Program Manager at Microsoft on the developer division community team. My main focus is on advocating for [Playwright](https://playwright.dev/) e2e testing. 
+I'm Debbie O'Brien, a Senior Program Manager at Microsoft on the developer division community team. My main focus is on advocating for [Playwright](https://playwright.dev/) e2e testing. 
 
 I have also created many open source resources for both React and Nuxt including videos, courses, blog posts, talks etc. My website is opensource so feel free to clone it and play around. It is not always perfect but it is where I try out new and cool things. I also break things so be warned. And I create tutorials and demos so keep watching this space. You never know what you might find.
 
