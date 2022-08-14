@@ -39,7 +39,6 @@ I am a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/Pu
 - [Nuxt Content Live Stream](https://youtu.be/J_YDP6SdopA)
 - [Get Started with Nuxt](https://youtu.be/IRKx97XfiYI)
 
----
 
 ---
 
