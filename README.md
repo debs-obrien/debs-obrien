@@ -8,6 +8,15 @@ I am a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/Pu
 
 🥋 Fun fact: I am a 4th degree Taekwondo Black Belt and I love sport, running, cycling, padel, skiing....
 
+<p align="center">
+  <a href="http://twitter.com/debs_obrien">
+    <img src="https://img.shields.io/twitter/follow/debs_obrien?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Debbie O'Brien's Twitter"/>
+  </a>
+  <a href="http://youtube.com/debbieobrien?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCrNvYFsT1L3WczE8AizDQ6g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Debbie O'Brien's YouTube channel"/>
+  </a>
+</p>
+
 ---
 
 ### List of ways you can follow me:
@@ -29,6 +38,18 @@ I am a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/Pu
 - [Passing Props and Children to a Component in React](https://youtu.be/gYrhfHzUA4U)
 - [Nuxt Content Live Stream](https://youtu.be/J_YDP6SdopA)
 - [Get Started with Nuxt](https://youtu.be/IRKx97XfiYI)
+
+---
+
+---
+
+### Latest Conference Talks
+
+
+- [Testing Web Applications with Playwright and .NET](https://youtu.be/MWaxxbOdIrw)
+- [Testing Web Applications with Playwright](https://youtu.be/dxbh0bl4It8)
+- [Learning React with the New React Docs](https://youtu.be/-7odLW_hG7s)
+- [Component Testing with Playwright](https://www.vuemastery.com/conferences/vueconf-us-2022/component-testing-with-playwright/)
 
 ---
 
