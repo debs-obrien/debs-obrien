@@ -25,7 +25,6 @@ I am a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/Pu
 - 📦  [Resources](https://debbie.codes/resources) for free courses
 - 📺  [YouTube Channel](https://www.youtube.com/channel/UCrNvYFsT1L3WczE8AizDQ6g/) for free videos on Nuxt and React
 - 📺  [Twitch Channel](https://www.twitch.tv/debs_obrien) I stream sometimes
-- 🎙  [Speaker Profile](https://noti.st/debbie) Check out my speaker profile to see previous talks
 - 🐦  [Twitter](https://twitter.com/debs_obrien) Follow me for stuff from programming to sport
 - 👩‍💻  [LinkedIn](https://www.linkedin.com/in/debbie-o-brien-1a199975/) Follow me for all things code related
 
