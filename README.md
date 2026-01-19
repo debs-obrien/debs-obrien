@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Debbie O'Brien, a Principal Technical Program Manager at Microsoft on the developer division community team. My main focus is on advocating for [Playwright](https://playwright.dev/) e2e testing. 
+I'm Debbie O'Brien, a Senior Staff Developer Relations Engineer, Applied AI at Block. My main focus is on helping everyone learn and apply AI workflows using Agents, MCPs and more and will be using [goose OSS](https://block.github.io/goose/) for the majority of my demos. It's gonna be a wild ride so jump on.
+
+I use to work as a Principal Technical Program Manager at Microsoft for the developer division community team where I focused on advocating for [Playwright](https://playwright.dev/) e2e testing. 
 
 I have also created many open source resources for both React and Nuxt including videos, courses, blog posts, talks etc. My website is opensource so feel free to clone it and play around. It is not always perfect but it is where I try out new and cool things. I also break things so be warned. And I create tutorials and demos so keep watching this space. You never know what you might find.
 
