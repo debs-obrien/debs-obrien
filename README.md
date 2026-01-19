@@ -31,24 +31,27 @@ Another fun fact. I am now a mom to twins.
 
 ---
 
-### Popular YouTube videos
+### Popular YouTube Videos
 
-
-- [Rending Lists in React with .map() and .filter()](https://youtu.be/PAByB3iaDk0)
-- [Passing Props and Children to a Component in React](https://youtu.be/gYrhfHzUA4U)
-- [Nuxt Content Live Stream](https://youtu.be/J_YDP6SdopA)
-- [Get Started with Nuxt](https://youtu.be/IRKx97XfiYI)
-
+- [Playwright MCP Servers Explained: Automation and Testing](https://youtu.be/U5Hsa6s2EqE) - 10k views
+- [Manual Testing with Playwright MCP – No Code, Just Prompts!](https://youtu.be/2vnttb-YZrA) - 34k views
+- [Install Playwright MCP Server in VS Code – AI-Powered Web Automation!](https://youtu.be/cifdyJkKs04) - 31k views
+- [Playwright MCP + Chrome Extension: Testing with Logged-In Profiles](https://youtu.be/uE0r51pneSA) - 19k views
+- [Build your First MCP Server: Tutorial for Beginners](https://youtu.be/egVm_z1nnnQ) - 15k views
+- [Build your First AI Agent with n8n and Gemini](https://youtu.be/x20mG6AigRg) - 1.3k views
 
 ---
 
 ### Latest Conference Talks
 
-
-- [Advanced Playwright techniques for flawless testing](https://youtu.be/O0TeeSbQPWY)
-- [Testing Web Applications with Playwright](https://youtu.be/dxbh0bl4It8)
-- [Learning React with the New React Docs](https://youtu.be/-7odLW_hG7s)
-- [Component Testing with Playwright](https://www.vuemastery.com/conferences/vueconf-us-2022/component-testing-with-playwright/)
+- [Supercharged Testing: AI-Powered Workflows with Playwright + MCP](https://youtu.be/CR4mBQFVWUU) - Azure Dev Summit 2025
+- [AIDD Day MCP Edition: Supercharged Testing with Playwright + MCP](https://youtu.be/Z_kJlltXIQA) - AI-Driven Development Day 2025
+- [AI Testing & Browser Automation with Playwright](https://youtu.be/pGPWSILa0PM) - AI-Driven Development Day 2025
+- [Automation, Playwright, and the Future](https://youtu.be/9rrfvKBzMY0) - QonfX 2025
+- [AI-Powered Debugging & Browser Automation with Playwright MCP](https://youtu.be/rrrklkDzQ1M) - Frontend Nation 2025
+- [Testing with Playwright in an AI-Assisted Development World](https://youtu.be/PJExSphHd-k) - Frontend Nation 2024
+- [Advanced Playwright Techniques for Flawless Testing](https://youtu.be/ybYK9jM0lco) - Copenhagen Developers Festival 2024
+- [Advanced Playwright Techniques for Flawless Testing](https://youtu.be/O0TeeSbQPWY) - Testμ 2024
 
 ---
 
