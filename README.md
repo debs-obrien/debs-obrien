@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Debbie O'Brien, a Senior Staff Developer Relations Engineer, Applied AI at Block. My main focus is on helping everyone learn and apply AI workflows using Agents, MCPs and more and will be using [goose OSS](https://block.github.io/goose/) for the majority of my demos. It's gonna be a wild ride so jump on.
+I'm Debbie O'Brien. My main focus is on helping everyone learn and apply AI workflows using Agents, MCPs and more.
 
 I use to work as a Principal Technical Program Manager at Microsoft for the developer division community team where I focused on advocating for [Playwright](https://playwright.dev/) e2e testing. 
 
