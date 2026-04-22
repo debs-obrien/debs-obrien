@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Debbie O'Brien. My main focus is on helping everyone learn and apply AI workflows using Agents, MCPs and more.
+I'm Debbie O'Brien. My main focus is on helping everyone learn and apply AI workflows using Agents, MCPs and more. I work as a Platform Engineer – Applied AI at Zephyr Cloud. I’ll be working at the intersection of AI, infrastructure, and developer experience, helping shape how we build, evaluate, and scale agentic workflows.
 
 I use to work as a Principal Technical Program Manager at Microsoft for the developer division community team where I focused on advocating for [Playwright](https://playwright.dev/) e2e testing. 
 
